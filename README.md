@@ -1,41 +1,23 @@
 # Samuel Cardona Ochoa
 
-**Advanced Analytics Executive | Data Science | Machine Learning | Quantitative Analytics**
+**Economics background. Data science day job. ML and AI projects after hours.**
 
-Economist and M.Sc. Data Science professional working at the intersection of
-**data engineering, econometrics, machine learning, and applied AI**.
+I like the part of data science that happens *before* a model works: figuring out why the numbers don't match, questioning assumptions, and turning messy data into something useful. And I like what comes *after*: making sure the solution is reliable enough for someone else to use.
 
-Currently working at **WPP Media**, participating across the full
-**Marketing Mix Modeling (MMM)** workflow, from data processing and transformation
-to statistical and econometric modeling and granular analysis.
+At **WPP Media**, I work in Advanced Analytics, building **Marketing Mix Models** from end to end. That means working with SQL and BigQuery to prepare and validate data, then using R, econometrics, and optimization to understand what's driving marketing performance. It's a mix of statistics, engineering, and a lot of detective work.
 
-Currently completing an **M.Sc. in Data Science at Universidad Pontificia Bolivariana**,
-with research focused on **Retrieval-Augmented Generation (RAG), semantic information
-retrieval, Small Language Models (SLMs), and AI applications for healthcare**.
+Outside work, I'm finishing an **M.Sc. in Data Science** and building things that let me explore machine learning and language models beyond the classroom. Lately, I've been especially interested in **local AI, RAG, and how to evaluate systems that need to be grounded in real documents**.
 
-## About Me
+## A few things I've built
 
-- Advanced Analytics Executive at **WPP Media**
-- M.Sc. Data Science candidate at **Universidad Pontificia Bolivariana**
-- Economist with an emphasis in **Financial Management and Econometrics**
-- Experience in **Marketing Mix Modeling, statistical modeling, and data engineering**
-- Experience developing **machine learning, NLP, and LLM-based solutions**
-- Interested in building **reproducible, scalable, and data-driven systems**
+- **[Graduate Admissions ML Pipeline](https://github.com/elKiruvi/Proyecto-Admisiones)** — A regression project taken beyond the notebook: reproducible training, careful cross-validation, leakage prevention, tests, and an inference app built with Streamlit.
+- **[Local PDF RAG](https://github.com/elKiruvi/local_pdf_rag_pipeline)** — A fully local question-answering pipeline using Ollama and FAISS. It retrieves evidence from PDFs, reports sources, and includes retrieval evaluation.
+- **[Monetary Policy RAG](https://github.com/elKiruvi/politica_monetaria_banrep_rag)** — An ongoing effort to make dense central bank reports easier to search, compare, and understand using hybrid retrieval and local language models.
 
-## Technical Interests
+My master's thesis takes that interest into healthcare: **a local RAG system for clinical guidelines**, with a focus on retrieval quality, traceability, and careful evaluation.
 
-- **Machine Learning Engineering**
-- **Data Engineering**
-- **Quantitative Analytics**
-- **Econometrics & Statistical Modeling**
-- **Natural Language Processing**
-- **Large Language Models**
-- **Retrieval-Augmented Generation**
-- **Semantic Information Retrieval**
-- **Applied Artificial Intelligence**
-- **Cloud & Data Platforms**
+I care about writing code I can understand six months later, testing the parts that can fail, and being clear about what a model can *and can't* do.
 
-## Connect With Me
+**Mostly working with:** Python · SQL · R · BigQuery · scikit-learn · FAISS · Git · GitHub Actions
 
-[LinkedIn](https://www.linkedin.com/in/samuel-cardona-ochoa/) ·
-[GitHub](https://github.com/elKiruvi)
+[LinkedIn](https://www.linkedin.com/in/samuel-cardona-ochoa/)
